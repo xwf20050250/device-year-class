@@ -1,3 +1,5 @@
+Facebook开源的Android设备年份时间检测工具
+
 # ![Devices by Year Class](https://github.com/facebook/device-year-class/raw/master/docs/images/logo_trans_square.png) Device Year Class
 
 Device Year Class is an Android library that implements a simple algorithm that maps
